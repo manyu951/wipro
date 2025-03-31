@@ -1,3 +1,3 @@
 # wipro
-Wipro training program \n
+Wipro training program 
 Manyu kumar
